@@ -1,6 +1,6 @@
 name: lb_flutter
-description: 整合乐播云sdk，提供flutter简便投屏使用
-version: 0.0.1
+#description: 整合乐播云sdk，提供flutter简便投屏使用
+#version: 0.0.1
 #author: lqx
 homepage: https://github.com/lqx359
 repository: https://github.com/lqx359/lbSDK
